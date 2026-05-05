@@ -1,4 +1,4 @@
-# AI-agent-# pTGC & UFO Agent Kit
+# pTGC & UFO Agent Kit
 
 A context and integration kit for AI agents interacting with The Grays 
 Currencies ecosystem (pTGC & UFO) on PulseChain.
