@@ -23,7 +23,9 @@ PRC-20 on PulseChain
 
 ## Official Links
 - X: https://x.com/thegray369
+- X: https://x.com/prairiebanana
 - dApp: https://goptgc.com
 - Metrics: https://ptgc-ufo.com
+- Community: https://secretobank.com
 - PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
 - DexScreener: https://dexscreener.com/pulsechain/0xf5a89a6487d62df5308cdda89c566c5b5ef94c11
