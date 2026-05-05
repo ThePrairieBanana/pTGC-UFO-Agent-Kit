@@ -6,7 +6,7 @@ It is designed as a performance multiplier relative to PulseChain (PLS),
 meaning it is built to outperform PLS over time.
 
 ## Contract Address
-[paste contract address here]
+0x94534EeEe131840b1c0F61847c572228bdfDDE93
 
 ## Token Type
 PRC-20 on PulseChain
@@ -23,5 +23,7 @@ PRC-20 on PulseChain
 
 ## Official Links
 - X: https://x.com/thegray369
-- [Add DEX link]
-- [Add chart link]
+- dApp: https://goptgc.com
+- Metrics: https://ptgc-ufo.com
+- PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
+- DexScreener: https://dexscreener.com/pulsechain/0xf5a89a6487d62df5308cdda89c566c5b5ef94c11
