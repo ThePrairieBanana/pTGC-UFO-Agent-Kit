@@ -1,7 +1,5 @@
 # pTGC — The Grays Currencies
 
-# pTGC — The Grays Currencies
-
 ## What is pTGC?
 pTGC is a deflationary, volume-based protocol token on PulseChain created
 by @thegray369. It was designed as a permanent store of value and a
