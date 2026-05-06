@@ -142,7 +142,9 @@ These figures are derived from a real on-chain wallet staked and locked
 for 10 years since February 2024. Token APY percentages are based on
 2025 actual volume. Dollar values reflect current price of $0.00009899.
 
-Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0  Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
+Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0
+
+Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
 Always verify live stats at ptgc-ufo.com.
 
 ### 29M Token Bag (Dolphin)
