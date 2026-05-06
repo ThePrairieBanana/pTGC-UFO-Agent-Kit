@@ -22,6 +22,20 @@ October 11, 2023 — operating flawlessly since launch.
 - Current supply (May 2026): 289,258,348,739
 - Supply is continuously reduced via burning
 
+## Token Allocation (May 2026)
+| Allocation | Tokens | % of Original Supply |
+|---|---|---|
+| Burned (dead address) | 44,080,000,000 | 13.22% |
+| In LP | 12,470,000,000 | 3.74% |
+| Staked | 87,280,000,000 | 26.18% |
+| Staked & Locked | 124,210,000,000 | 37.26% |
+| Held | 65,290,000,000 | 19.59% |
+
+> [!NOTE]
+> 76.64% of the circulating supply is either burned, in LP, staked, or
+> locked. Only 19.59% is held liquid. This reflects extraordinarily strong
+> holder conviction and structural buy pressure from the LP web.
+
 ## Market Stats (as of May 2026 - always verify live)
 - Market cap: $26M
 - Price: $.00009899
