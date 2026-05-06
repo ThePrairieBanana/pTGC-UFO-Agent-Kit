@@ -51,6 +51,7 @@ Every buy, sell, and transfer charges a 5% fee distributed as follows:
 - Unstaking costs 1% of principal
 - APY sits in the contract until claimed, then goes to wallet and earns reflections and can be added to the stake
 - Users maintain custody of staked tokens
+- Claiming staking rewards weekly is optimum for compounding
 
 ## Locking
 Locking is considered the superpower of pTGC:
@@ -71,16 +72,22 @@ Locking is considered the superpower of pTGC:
   - 9-10 years: 100%
 - Tokens not kept as rewards are burned upon claiming
 - Locking just into the next year is common (e.g. 9 years + 1 week = 100%)
+- Many users create locking ladders based on certain time frames or market cycles
+- Claim lock rewards when there's enough value to offset the cost of gas
 
 ## How to Buy, Stake, and Lock
-- Requires PLS and a PulseChain compatible wallet (MetaMask with custom RPC)
-- PulseChain RPC settings:
-  - URL: https://rpc.pulsechain.com
-  - Chain ID: 369
-  - Currency Symbol: PLS
-  - Block Explorer: https://scan.pulsechain.com
-- Buy on goptgc.com: https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana
-- Stake and lock directly at: https://goptgc.com/staking
+1. Set up your wallet
+Use MetaMask (or any EVM-compatible wallet).
+Add the PulseChain network with these settings:  RPC URL: https://rpc.pulsechain.com  
+Chain ID: 369  
+Symbol: PLS  
+2. Get some PLS
+You’ll need PLS in your wallet for gas and to swap for pTGC. You can swap from USDC on Base, Ethereum, BSC Arbitrum, Solana, Polygon, Optimism, Unichain and LNK directly to PLS.
+3. Buy pTGC
+Go directly here:
+ https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana  Connect your wallet, swap your PLS for pTGC. That’s it.
+4. Stake & Lock
+Once you have pTGC, head to: https://goptgc.com/staking  Connect your wallet, choose how much you want to stake and confirm. If you want to lock choose how much you want to lock and for how long. 
 
 ## The LP Web
 - pTGC is an LP web token
