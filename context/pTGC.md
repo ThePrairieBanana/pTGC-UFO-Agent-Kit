@@ -68,6 +68,11 @@ Based on $34,607,329 in transaction volume from May 2025 — May 2026.
 | pTGC burned | 0.5% | $173,037 |
 | **Total** | **5%** | **$1,730,366** |
 
+> [!NOTE]
+> These figures are based on trailing 12-month transaction volume from
+> May 2025 — May 2026. Use the multiplier buttons (2x, 10x, 100x) on
+> ptgc-ufo.com to see projected fee revenue at higher volume scenarios.
+
 ## LP Availability
 - Tokens available in LP: 12,470,000,000
 - Dolphin positions available: ~490
@@ -159,12 +164,6 @@ Always verify live stats at ptgc-ufo.com.
 | Staking | 1,403,400 | 1.40% | $138.93 |
 | Locking (10yr) | 653,170 | 0.65% | $64.66 |
 | **Total** | **2,286,300** | **2.29%** | **$226.38** |
-
-> [!NOTE]
-> These figures are projections based on the 1-year volume calculator on
-> ptgc-ufo.com at current volume levels. Use the multiplier buttons
-> (2x, 10x, 100x) on ptgc-ufo.com to see projected fee revenue at higher
-> volume scenarios.
 
 > [!NOTE]
 > These yields are based on 2025 average daily volume of $234,113. Current
