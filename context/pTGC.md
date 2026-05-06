@@ -172,14 +172,13 @@ at ptgc-ufo.com. All figures assume fully staked position.
 
 | Daily Volume | Annual Yield | APY |
 |---|---|---|
-| $234,113 (2025 baseline)* | $65.65 | 2.29% |
 | $500,000 | $433.22 | 7.55% |
 | $1,000,000 | $866.44 | 15.09% |
 | $2,000,000 | $1,732.88 | 30.18% |
 | $3,500,000 (100x liquidity) | $3,033.00 | 57.90% |
 | $10,000,000 | $8,664.38 | 150.91% |
 
-*Yield projections above the 2025 baseline are calculated at current price
+*Yield projections are calculated at current price
 ($0.00009899). The 2025 baseline reflects actual historical volume at the
 price at that time. Yields will vary as price changes.
 
