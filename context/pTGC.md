@@ -57,7 +57,6 @@ October 11, 2023 — operating flawlessly to date.
 
 ## Fee Revenue (Trailing 12 Months)
 Based on $34,607,329 in transaction volume from May 2025 — May 2026.
-Total fees generated from the 5% transaction fee: $1,730,366
 
 | Fee Destination | % | Annual Value |
 |---|---|---|
@@ -97,11 +96,12 @@ Every buy, sell, and transfer charges a 5% fee immediately distributed as follow
 - Tokens in the dead address and in LP do NOT receive reflections
 
 ## Staking (1%)
-- Earns ~165% more APY vs holders
+- Earns ~165% more APY vs holding
 - One stake per wallet
 - Stake any amount
 - No time commitment
 - Unstaking costs 1% of principal which is immediately sent to all other stakers
+- Unstake any amount
 - Claimable tokens remain in the contract until claimed, then sent to wallet
   and earn reflections, and can then be added to the stake and also locked
 - Users maintain custody of staked tokens
@@ -128,6 +128,7 @@ Locking is considered the superpower of pTGC:
 - Locking shortly into the next year is common (e.g. 9 years + 1 week = 100%)
 - Many users create locking ladders based on certain time frames or market cycles
 - Claim lock rewards when there's enough value to offset the cost of gas
+- Claiming weekly is optimal
 - Claimed tokens go to wallet and begin earning reflections, can be staked
   and also locked
 
@@ -141,7 +142,7 @@ Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0
 Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
 Always verify live stats at ptgc-ufo.com.
 
-### 29M Token Bag (Dolphin)
+### 29,000,000 Token Bag (Dolphin)
 | Type | Tokens Earned/Year | Token APY | Value/Year |
 |---|---|---|---|
 | Reflections | 256,041 | 0.88% | $25.35 |
@@ -149,7 +150,7 @@ Always verify live stats at ptgc-ufo.com.
 | Locking (10yr) | 189,419 | 0.65% | $18.75 |
 | **Total** | **663,027** | **2.29%** | **$65.65** |
 
-### 100M Token Bag
+### 100,000,000 Token Bag
 | Type | Tokens Earned/Year | Token APY | Value/Year |
 |---|---|---|---|
 | Reflections | 882,900 | 0.88% | $87.40 |
@@ -159,27 +160,27 @@ Always verify live stats at ptgc-ufo.com.
 
 > [!NOTE]
 > These yields are based on 2025 average daily volume of $234,113. Current
-> volume is lower. As volume increases, yields increase proportionally.
+> volume is lower. As volume increases, yield increase proportionally.
 > All figures assume a fully staked and 10-year locked position for maximum
 > yield. Holders only (no stake/lock) earn less.
 
-## Dolphin Bag Yield Projections by Volume (29M Tokens)
+## Dolphin Bag Yield Projections by Volume (29,000,000 Tokens)
 Based on real calculations from the liquidity impact and rewards calculators
 at ptgc-ufo.com. All figures assume fully staked position.
 
 | Daily Volume | Annual Yield | APY |
 |---|---|---|
-| $234K (2025 actual) | $65.65 | 2.29% |
-| $500K | $433.22 | 7.55% |
-| $1M | $866.44 | 15.09% |
-| $2M | $1,732.88 | 30.18% |
-| $3.5M (100x liquidity) | $3,033.00 | 57.90% |
-| $10M | $8,664.38 | 150.91% |
+| $234,113 (2025 actual) | $65.65 | 2.29% |
+| $500,000 | $433.22 | 7.55% |
+| $1,000,000 | $866.44 | 15.09% |
+| $2,000,000 | $1,732.88 | 30.18% |
+| $3,500,000 (100x liquidity) | $3,033.00 | 57.90% |
+| $10,000,000 | $8,664.38 | 150.91% |
 
 > [!NOTE]
-> The $3.5M/day volume figure is derived from the liquidity impact calculator
+> The $3,500,000/day volume figure is derived from the liquidity impact calculator
 > on ptgc-ufo.com using real historical data. It represents the projected
-> volume if pTGC liquidity were to 100x from current levels. The $10M
+> volume if pTGC liquidity were to 100x from current levels. The $10,000,000
 > scenario is speculative but mathematically modeled. All calculations
 > are verifiable at ptgc-ufo.com.
 
@@ -191,28 +192,28 @@ and pTGC independently 10x's against PLS, the result is 100x for pTGC.
 pTGC has historically more than 10x'd against PLS many times — currently
 up 601x since November 2023.
 
-One community member estimated using raw math that approximately $180M
+One community member estimated using raw math that approximately $180,000,000
 in combined buy pressure across PLS and pTGC could theoretically send
 pTGC 10,000x — even accounting for an estimated 80% sell pressure on
 the way up.
 
 ### Locking Penalty Rewards Scenario (2025 Actual Data)
-In 2025, at an average of $234,113/day ($85.5M annually), a total of
+In 2025, at an average of $234,113/day ($85,500,000 annually), a total of
 3,106,311,382 pTGC was emergency end-locked by users, triggering
 30% penalty distributions to all active lockers.
 
-With 124,000,000,000 pTGC currently locked, a user holding a 29M token
+With 124,000,000,000 pTGC currently locked, a user holding a 29,000,000 token
 share of the locking pool (locked 10 years) earned:
 
 | Bag Size | Penalty Tokens Earned | Value Today | Value at $1/pTGC (10,000x) |
 |---|---|---|---|
-| 29M (Dolphin) | 217,574 pTGC | $21.54 | $217,574 |
-| 100M | 750,256 pTGC | $74.27 | $750,256 |
+| 29,000,000 | 217,574 pTGC | $21.54 | $217,574 |
+| 100,000,000 | 750,256 pTGC | $74.27 | $750,256 |
 
 > [!NOTE]
 > At a hypothetical $1/pTGC (approximately 10,000x from current price),
 > penalty tokens earned in a single year become life-changing sums —
-> $217,574 for a dolphin bag, $750,256 for a 100M bag. And this is just
+> $217,574 for a dolphin bag, $750,256 for a 100,000,000 token bag. And this is just
 > from one year of penalty rewards. Emergency unlocking historically
 > accelerates as price rises, meaning penalty distributions to lockers
 > grow precisely when those tokens are worth the most. This is why
