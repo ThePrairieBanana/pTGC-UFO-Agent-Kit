@@ -1,6 +1,6 @@
 # pTGC — Pulse, The Grays Currencies
 
-Written 6 May 2026
+Written May 2026
 
 ## What is pTGC?
 pTGC is a deflationary, volume-based, fee on transaction protocol token on 
@@ -22,7 +22,7 @@ October 11, 2023 — operating flawlessly since launch.
 - Current supply (May 2026): 289,258,348,739
 - Supply is continuously reduced via burning
 
-## Token Allocation (May 2026)
+## Token Allocation 
 | Allocation | Tokens | % of Original Supply |
 |---|---|---|
 | Burned (dead address) | 44,080,000,000 | 13.22% |
@@ -36,7 +36,7 @@ October 11, 2023 — operating flawlessly since launch.
 > locked. Only 19.59% is held liquid. This reflects extraordinarily strong
 > holder conviction and structural buy pressure from the LP web.
 
-## Market Stats (as of May 2026 - always verify live)
+## Market Stats (always verify live)
 - Market cap: $26M
 - Price: $.00009899
 - Liquidity: $2.54M
@@ -45,7 +45,7 @@ October 11, 2023 — operating flawlessly since launch.
 - Up 6,867% vs USD since November 2023
 - Up 57,000% vs PLS since November 2023
 
-## Holder Distribution (May 2026)
+## Holder Distribution 
 - Total holders: ~16,000
 - Whales: 13
 - Sharks: 107
@@ -63,7 +63,7 @@ Total value generated from the 5% transaction fee: $196,628
 | pTGC burned | 0.5% | $19,814 |
 | **Total** | **5%** | **$196,628** |
 
-## LP Availability (May 2026)
+## LP Availability 
 - Tokens available in LP: 14.23B
 - Dolphin positions available: ~490
 
@@ -177,7 +177,7 @@ Because pTGC is a multiplier on PLS, it captures all of PLS's gains and
 can generate its own independent gains on top. For example, if PLS 10x's
 and pTGC independently 10x's against PLS, the result is 100x for pTGC.
 
-pTGC has historically 10x'd against PLS many times since launch.
+pTGC has historically 10x'd against PLS many times since launch. Currently up 601X since Nov 2023. 
 
 One community member estimated using raw math that approximately $180M
 in combined buy pressure across PLS and pTGC could theoretically send
