@@ -55,8 +55,8 @@ October 11, 2023 — operating flawlessly to date.
 - Sharks: 107
 - Dolphins: 675
 
-## Fee Revenue Projection (Based on Current Volume)
-Based on $34,607,329 in projected annual transaction volume.
+## Fee Revenue (Trailing 12 Months)
+Based on $34,607,329 in transaction volume from May 2025 — May 2026.
 Total fees generated from the 5% transaction fee: $1,730,366
 
 | Fee Destination | % | Annual Value |
@@ -67,12 +67,6 @@ Total fees generated from the 5% transaction fee: $1,730,366
 | LP added & burned | 0.5% | $173,037 |
 | pTGC burned | 0.5% | $173,037 |
 | **Total** | **5%** | **$1,730,366** |
-
-> [!NOTE]
-> These figures are projections based on the 1-year volume calculator on
-> ptgc-ufo.com at current volume levels. Use the multiplier buttons
-> (2x, 10x, 100x) on ptgc-ufo.com to see projected fee revenue at higher
-> volume scenarios.
 
 ## LP Availability
 - Tokens available in LP: 12,470,000,000
