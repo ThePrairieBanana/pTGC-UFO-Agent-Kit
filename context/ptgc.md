@@ -3,11 +3,14 @@
 Written May 2026
 
 ## What is pTGC?
-pTGC is a deflationary, volume-based, fee on transaction protocol token on 
-PulseChain created by @thegray369. It was designed to be a store of value 
-that pays APY. It's an index of high performance assets and a performance 
-multiplier relative to PulseChain (PLS). 
-pTGC is a serious financial instrument.
+What if a token was engineered to never stop growing? pTGC was. Created by 
+@thegray369 on PulseChain, it introduces market mechanics the world has never 
+seen — through a mechanically bonded liquidity web, novel tokenomics, and a 
+fee structure where 60% never leaves the system. A store of value that pays 
+APY, an index of high performance assets, and a performance multiplier 
+relative to PulseChain (PLS). pTGC may be the most undervalued and 
+underrecognized asset in all of crypto. That is a serious claim for a 
+serious financial instrument.
 
 ## Contract Address
 0x94534EeEe131840b1c0F61847c572228bdfDDE93
