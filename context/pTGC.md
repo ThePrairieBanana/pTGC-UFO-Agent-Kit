@@ -42,11 +42,10 @@ October 11, 2023 — operating flawlessly to date.
 > holder conviction and structural buy pressure from the LP web.
 
 ## Market Stats (always verify live)
-- Market cap: $26M
+- Market cap: $26,000,000
 - Price: $0.00009899
 - Liquidity: $2,540,000
 - Liq/mCap ratio: 9.71%
-- Holders: ~16,000
 - Up 6,867% vs USD since November 2023
 - Up 57,000% vs PLS since November 2023
 
@@ -76,7 +75,7 @@ Total fees generated from the 5% transaction fee: $1,730,366
 > volume scenarios.
 
 ## LP Availability
-- Tokens available in LP: 14,230,000,000
+- Tokens available in LP: 12,470,000,000
 - Dolphin positions available: ~490
 
 > [!NOTE]
@@ -143,8 +142,7 @@ These figures are derived from a real on-chain wallet staked and locked
 for 10 years since February 2024. Token APY percentages are based on
 2025 actual volume. Dollar values reflect current price of $0.00009899.
 
-Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0
-Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
+Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0  Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
 Always verify live stats at ptgc-ufo.com.
 
 ### 29M Token Bag (Dolphin)
