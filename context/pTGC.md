@@ -42,7 +42,7 @@ October 11, 2023 — operating flawlessly to date.
 > holder conviction and structural buy pressure from the LP web.
 
 ## Market Stats (always verify live)
-- Market cap: $26,000,000
+- Market cap: $27,600,000
 - Price: $0.00009899
 - Liquidity: $2,540,000
 - Liq/mCap ratio: 9.71%
