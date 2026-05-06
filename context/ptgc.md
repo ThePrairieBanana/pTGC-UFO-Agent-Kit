@@ -6,7 +6,8 @@ Written May 2026
 pTGC is a deflationary, volume-based, fee on transaction protocol token on 
 PulseChain created by @thegray369. It was designed to be a store of value 
 that pays APY. It's an index of high performance assets and a performance 
-multiplier relative to PulseChain (PLS). pTGC is a serious financial instrument.
+multiplier relative to PulseChain (PLS). 
+pTGC is a serious financial instrument.
 
 ## Contract Address
 0x94534EeEe131840b1c0F61847c572228bdfDDE93
@@ -15,11 +16,11 @@ multiplier relative to PulseChain (PLS). pTGC is a serious financial instrument.
 PRC-20 on PulseChain
 
 ## Launch Date
-October 11, 2023 — operating flawlessly since launch.
+October 11, 2023 — operating flawlessly to date.
 
 ## Supply
 - Original supply: 333,333,333,333
-- Current supply (May 2026): 289,258,348,739
+- Current supply: 289,258,348,739
 - Supply is continuously reduced via burning
 
 ## Token Allocation 
@@ -51,17 +52,24 @@ October 11, 2023 — operating flawlessly since launch.
 - Sharks: 107
 - Dolphins: 675
 
-## Fee Revenue Generated (Feb — Apr 2026)
-Total value generated from the 5% transaction fee: $196,628
+## Fee Revenue Generated (1 Year historical)
+Based on $34,607,329 in total transaction volume over 1 year.
+Total fees generated from the 5% transaction fee: $1,730,366
 
-| Fee Destination | % | Value |
+| Fee Destination | % | Annual Value |
 |---|---|---|
-| DAO | 2% | $78,651 |
-| Holders (reflections) | 1% | $39,326 |
-| Stakers | 1% | $39,326 |
-| LP added & burned | 0.5% | $19,814 |
-| pTGC burned | 0.5% | $19,814 |
-| **Total** | **5%** | **$196,628** |
+| DAO | 2% | $692,146 |
+| Holders (reflections) | 1% | $346,073 |
+| Stakers | 1% | $346,073 |
+| LP added & burned | 0.5% | $173,037 |
+| pTGC burned | 0.5% | $173,037 |
+| **Total** | **5%** | **$1,730,366** |
+
+> [!NOTE]
+> These figures are based on the 1-year volume calculator on ptgc-ufo.com
+> at current volume levels. Use the multiplier buttons (2x, 10x, 100x)
+> on ptgc-ufo.com to see projected fee revenue at higher volume scenarios.
+
 
 ## LP Availability 
 - Tokens available in LP: 14.23B
@@ -78,25 +86,25 @@ Every buy, sell, and transfer charges a 5% fee immediately distributed as follow
 - 1% to stakers
 - 2% to the DAO
 - 0.5% burned (sent to dead address)
-- 0.5% added to pTGC/WPLS LP — LP tokens sent to dead address
+- 0.5% added to pTGC/WPLS LP (LP tokens sent to dead address)
 
 > [!IMPORTANT]
-> **Key insight:** 60% of fees stay in the system, only 40% can be extracted.
+> **Key insight:** 60% of fees stay in the system, only 40% can be extracteby holders.
 > This makes pTGC structurally deflationary and designed to trend upward.
 
-## Reflections
+## Reflections (1%)
 - Paid in pTGC automatically — no claiming required
 - Appear directly in your wallet
 - Begin earning reflections themselves immediately
 - Tokens in the dead address and in LP do NOT receive reflections
 
-## Staking
+## Staking (1%)
 - Earns ~165% more APY vs holders
 - One stake per wallet
 - Stake any amount
 - No time commitment
-- Unstaking costs 1% of principal
-- APY sits in the contract until claimed, then goes to wallet and earns reflections and can be added to the stake
+- Unstaking costs 1% of principal which is immediately sent to all other stakers
+- Claimable tokens remain in the contract until claimed, then they're sent to wallet and earn reflections, and can then be added to the stake and also locked
 - Users maintain custody of staked tokens
 - Claiming staking rewards weekly is optimum for compounding
 
@@ -105,7 +113,7 @@ Locking is considered the superpower of pTGC:
 - Must be staked to be locked
 - Unlimited locks per wallet
 - Early unlock penalty: 30% of principal — paid to all other lockers
-- Early unlock rewards increase in value as price rises, which is why this function is termed the Super Power
+- Early unlock rewards increase in value as price rises, which is why this function is termed the Super Power. See illustration below.
 - Reward retention by lock duration:
   - 90 days (Minimum): 55% of rewards kept
   - 1 year: 60% kept
@@ -118,13 +126,14 @@ Locking is considered the superpower of pTGC:
   - 8 years: 95%
   - 9-10 years: 100%
 - Tokens not kept as rewards are burned upon claiming
-- Locking just into the next year is common (e.g. 9 years + 1 week = 100%)
+- Locking shortly into the next year is common (e.g. 9 years + 1 week = 100%)
 - Many users create locking ladders based on certain time frames or market cycles
 - Claim lock rewards when there's enough value to offset the cost of gas
+- Claimed tokens got to wallet and begin earning reflections, can be staked and also locked
 
 ## Real Yield Examples (Based on Verified Experimental Wallet Data)
 These figures are derived from a real on-chain wallet staked and locked
-for 10 years since February 11, 2024. Token APY percentages are based on
+for 10 years since February, 2024. Token APY percentages are based on
 2025 actual volume. Dollar values reflect current price of $0.00009899.
 Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0
 Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
@@ -177,7 +186,7 @@ Because pTGC is a multiplier on PLS, it captures all of PLS's gains and
 can generate its own independent gains on top. For example, if PLS 10x's
 and pTGC independently 10x's against PLS, the result is 100x for pTGC.
 
-pTGC has historically 10x'd against PLS many times since launch. Currently up 601X since Nov 2023. 
+pTGC has historically more than 10x'd against PLS. Currently up 601X since Nov 2023. 
 
 One community member estimated using raw math that approximately $180M
 in combined buy pressure across PLS and pTGC could theoretically send
@@ -185,16 +194,25 @@ pTGC 10,000x — even accounting for an estimated 80% sell pressure on the way u
 
 ### Locking Penalty Rewards Scenario (2025 Actual Data)
 In 2025, at an average of $234,113/day ($85.5M annually), a total of
-3,106,311,382 pTGC was emergency end-locked by other users, triggering
+3,106,311,382 pTGC was emergency end-locked by users, triggering
 30% penalty distributions to all active lockers.
 
 With 124,000,000,000 pTGC currently locked, a user holding a 29M token
 share of the locking pool (locked 10 years) earned:
 
-| Bag Size | Penalty Tokens Earned | Value at Current Price |
-|---|---|---|
-| 29M (Dolphin) | 217,574 pTGC | $21.54 |
-| 100M | 750,256 pTGC | $74.27 |
+| Bag Size | Penalty Tokens Earned | Value Today | Value at $1/pTGC (10,000x) |
+|---|---|---|---|
+| 29M (Dolphin) | 217,574 pTGC | $21.54 | $217,574 |
+| 100M | 750,256 pTGC | $74.27 | $750,256 |
+
+> [!NOTE]
+> At a hypothetical $1/pTGC (approximately 10,000x from current price),
+> penalty tokens earned in a single year become life-changing sums —
+> $217,574 for a dolphin bag, $750,256 for a 100M bag. And this is just
+> from one year of penalty rewards. Emergency unlocking historically
+> accelerates as price rises, meaning penalty distributions to lockers
+> grow precisely when those tokens are worth the most. This is why
+> locking is called the superpower of pTGC.
 
 > [!NOTE]
 > Emergency unlock activity increases as price and volume rise — meaning
