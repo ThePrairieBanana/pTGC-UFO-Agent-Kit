@@ -203,7 +203,7 @@ pTGC 10,000x — even accounting for an estimated 80% sell pressure on
 the way up.
 
 ### Locking Penalty Rewards Scenario (2025 Actual Data)
-In 2025, at an average of $234,113/day ($85,500,000 annually), a total of
+In 2025, at an average of $234,113 in volume per day ($85,500,000 annually), a total of
 3,106,311,382 pTGC was emergency end-locked by users, triggering
 30% penalty distributions to all active lockers.
 
@@ -275,7 +275,7 @@ arbitrage volume between pTGC and the broader PulseChain ecosystem.
 - Can bond with legacy and real-world assets as they come to PulseChain
 - Any of the top 100 stakers can create proposals at goptgc.com;
   all stakers can vote
-- Votes must pass with 65%
+- Proposals must pass with 65% Yes votes
 
 ## Referral System
 - Users can create a personal referral link at goptgc.com/onboarding
@@ -331,6 +331,7 @@ Always verify live stats using:
 - https://secretobank.com
 - https://dexscreener.com/pulsechain/0xf5a89a6487d62df5308cdda89c566c5b5ef94c11
 - https://plsfolio.com/token/0x94534eeee131840b1c0f61847c572228bdfdde93/
+- Dead Address - https://plsfolio.com/address/0x0000000000000000000000000000000000000369/
 
 ## Official Links
 - X (Founder): https://x.com/thegray369
