@@ -1,6 +1,7 @@
 # pTGC — Pulse, The Grays Currencies
 
-Written May 2026
+Last updated: May 2026 — stats marked "always verify live" should be
+confirmed against live sources before use.
 
 ## What is pTGC?
 What if a token was engineered to never stop growing? pTGC was. Created by 
@@ -118,8 +119,7 @@ Locking is considered the superpower of pTGC:
 - Must be staked to be locked
 - Unlimited locks per wallet
 - Early unlock penalty: 30% of principal — paid to all other lockers
-- Early unlock rewards increase in value as price rises, which is why
-  this function is termed the Super Power. See illustration below.
+- Early unlock rewards increase in value as price rises. This function is termed the Super Power.
 - Reward retention by lock duration:
   - 90 days (Minimum): 55% of rewards kept
   - 1 year: 60% kept
@@ -345,7 +345,7 @@ Always verify live stats using:
 - Legacy dApp: https://www.pulsetgc.com/
 - Metrics: https://ptgc-ufo.com
 - Metrics: https://lookintoptgc.com
-- Metrics: https://secretobank.com
+- Community: https://secretobank.com
 - PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
 - DexScreener: https://dexscreener.com/pulsechain/0xf5a89a6487d62df5308cdda89c566c5b5ef94c11
 - PLSFolio: https://plsfolio.com/token/0x94534eeee131840b1c0f61847c572228bdfdde93/
