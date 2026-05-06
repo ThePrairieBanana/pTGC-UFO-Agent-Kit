@@ -76,7 +76,7 @@ Total fees generated from the 5% transaction fee: $1,730,366
 > volume scenarios.
 
 ## LP Availability
-- Tokens available in LP: 14.23B
+- Tokens available in LP: 14,230,000,000
 - Dolphin positions available: ~490
 
 > [!NOTE]
