@@ -239,6 +239,24 @@ If you want to lock, choose how much and for how long.
 - pTGC was the first protocol to leverage AMM bots this way
 - The vast majority of pTGC LP is permanently burned — making it unruggable
 
+- ### The Path to 100x Liquidity
+The 100x LP scenario isn't a fantasy — it's a mechanical outcome of
+sustained volume, DAO deployment, and ecosystem growth.
+
+Here's why: every transaction generates LP that is permanently burned.
+The DAO continuously deploys its 2% fee income into new and existing LP
+pairs. And because pTGC is a multiplier on PLS, when PLS appreciates the
+dollar value of all pTGC/WPLS LP appreciates with it — without a single
+new token being added.
+
+For example, if PLS 10x's, the dollar value of the pTGC/WPLS LP 10x's
+automatically. If pTGC simultaneously 10x's against PLS, that LP has
+effectively 100x'd in dollar terms. The AMM bots respond to deeper LP
+with exponentially more volume — which generates more LP, more burns,
+and more rewards.
+
+This is the flywheel. LP growth drives volume. Volume drives LP growth.
+
 ## Richard Heart Core Assets
 pTGC currently holds $897,000 in LP with the following PulseChain
 native assets:
