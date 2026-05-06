@@ -44,7 +44,7 @@ October 11, 2023 — operating flawlessly to date.
 ## Market Stats (always verify live)
 - Market cap: $26M
 - Price: $0.00009899
-- Liquidity: $2.54M
+- Liquidity: $2,540,000
 - Liq/mCap ratio: 9.71%
 - Holders: ~16,000
 - Up 6,867% vs USD since November 2023
