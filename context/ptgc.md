@@ -103,6 +103,7 @@ Locking is considered the superpower of pTGC:
 ## Official Links
 - X: https://x.com/thegray369
 - X: https://x.com/prairiebanana
+- Youtube: https://www.youtube.com/@theprairiebanana
 - dApp: https://goptgc.com
 - Metrics: https://ptgc-ufo.com
 - Community: https://secretobank.com
