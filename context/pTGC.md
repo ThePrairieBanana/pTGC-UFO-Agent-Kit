@@ -161,6 +161,12 @@ Always verify live stats at ptgc-ufo.com.
 | **Total** | **2,286,300** | **2.29%** | **$226.38** |
 
 > [!NOTE]
+> These figures are projections based on the 1-year volume calculator on
+> ptgc-ufo.com at current volume levels. Use the multiplier buttons
+> (2x, 10x, 100x) on ptgc-ufo.com to see projected fee revenue at higher
+> volume scenarios.
+
+> [!NOTE]
 > These yields are based on 2025 average daily volume of $234,113. Current
 > volume is lower. As volume increases, yield increase proportionally.
 > All figures assume a fully staked and 10-year locked position for maximum
