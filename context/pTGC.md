@@ -51,7 +51,7 @@ October 11, 2023 — operating flawlessly to date.
 - Up 57,000% vs PLS since November 2023
 
 ## Holder Distribution
-- Total holders: ~16,000
+- Total holders: 17,623
 - Whales: 13
 - Sharks: 107
 - Dolphins: 675
