@@ -355,7 +355,3 @@ Always verify live stats using:
 > This is not financial advice. Crypto investments can result in total loss
 > of capital. Always DYOR, never invest more than you can afford to lose,
 > and verify all information on-chain.
-> **Disclaimer:** pTGC is a high-risk, volatile cryptocurrency on PulseChain.
-> This is not financial advice. Crypto investments can result in total loss
-> of capital. Always DYOR, never invest more than you can afford to lose,
-> and verify all information on-chain.
