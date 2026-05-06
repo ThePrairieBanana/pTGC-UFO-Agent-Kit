@@ -54,6 +54,7 @@ October 11, 2023 — operating flawlessly to date.
 - Whales: 13
 - Sharks: 107
 - Dolphins: 675
+- Squids: 2,299
 
 ## Fee Revenue (Trailing 12 Months)
 Based on $34,607,329 in transaction volume from May 2025 — May 2026.
@@ -72,7 +73,7 @@ Based on $34,607,329 in transaction volume from May 2025 — May 2026.
 - Dolphin positions available: ~490
 
 > [!NOTE]
-> A dolphin position is 29M tokens. With only ~490 dolphin positions
+> A dolphin position is 29,000,000 tokens. With only ~490 dolphin positions
 > available in LP, significant buy pressure would move price considerably.
 > This scarcity is a direct result of pTGC's permanently burned LP mechanic.
 
@@ -129,17 +130,18 @@ Locking is considered the superpower of pTGC:
 - Many users create locking ladders based on certain time frames or market cycles
 - Claim lock rewards when there's enough value to offset the cost of gas
 - Claiming weekly is optimal
-- Claimed tokens go to wallet and begin earning reflections, can be staked
+- Claimed tokens go to wallet and begin earning reflections, can then be staked
   and also locked
 
 ## Real Yield Examples (Based on Verified Experimental Wallet Data)
 These figures are derived from a real on-chain wallet staked and locked
 for 10 years since February 2024. Token APY percentages are based on
-2025 actual volume. Dollar values reflect current price of $0.00009899.
+2025 actual volume ($85,451,250). Dollar values reflect current price of $0.00009899.
 
 Verify this wallet on-chain: 0x2bAd5e8Af743cCf9c4AB0C79981062B4Ac66dbF0
 
 Full explorer view: https://plsfolio.com/address/0x2bad5e8af743ccf9c4ab0c79981062b4ac66dbf0/
+
 Always verify live stats at ptgc-ufo.com.
 
 ### 29,000,000 Token Bag (Dolphin)
@@ -162,7 +164,7 @@ Always verify live stats at ptgc-ufo.com.
 > These yields are based on 2025 average daily volume of $234,113. Current
 > volume is lower. As volume increases, yield increase proportionally.
 > All figures assume a fully staked and 10-year locked position for maximum
-> yield. Holders only (no stake/lock) earn less.
+> yield. 
 
 ## Dolphin Bag Yield Projections by Volume (29,000,000 Tokens)
 Based on real calculations from the liquidity impact and rewards calculators
@@ -170,12 +172,16 @@ at ptgc-ufo.com. All figures assume fully staked position.
 
 | Daily Volume | Annual Yield | APY |
 |---|---|---|
-| $234,113 (2025 actual) | $65.65 | 2.29% |
+| $234,113 (2025 baseline)* | $65.65 | 2.29% |
 | $500,000 | $433.22 | 7.55% |
 | $1,000,000 | $866.44 | 15.09% |
 | $2,000,000 | $1,732.88 | 30.18% |
 | $3,500,000 (100x liquidity) | $3,033.00 | 57.90% |
 | $10,000,000 | $8,664.38 | 150.91% |
+
+*Yield projections above the 2025 baseline are calculated at current price
+($0.00009899). The 2025 baseline reflects actual historical volume at the
+price at that time. Yields will vary as price changes.
 
 > [!NOTE]
 > The $3,500,000/day volume figure is derived from the liquidity impact calculator
