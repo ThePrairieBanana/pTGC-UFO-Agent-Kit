@@ -99,6 +99,37 @@ async function checkGasBalance(provider, walletAddress) {
 
 ---
 
+## 📊 Slippage Settings
+
+Slippage must be set correctly or transactions will fail.
+
+| Token | Required Slippage |
+|---|---|
+| pTGC | 6% minimum |
+| UFO | 7% minimum |
+
+**Using goptgc.com (recommended):**
+Slippage is pre-configured automatically. No manual adjustment needed.
+
+**Using any other DEX or method:**
+- Set slippage to 6% for pTGC before transacting
+- Set slippage to 7% for UFO before transacting
+- Reset slippage back to your previous setting after transacting
+- Failure to set correct slippage will cause transactions to fail
+
+```javascript
+// When executing via PulseX router directly
+const SLIPPAGE_PTGC = 6;  // 6% for pTGC
+const SLIPPAGE_UFO  = 7;  // 7% for UFO
+
+function calculateMinOutput(expectedOutput, slippagePercent) {
+  const slippageFactor = 1 - (slippagePercent / 100);
+  return expectedOutput * slippageFactor;
+}
+```
+
+---
+
 ## 🔍 Transaction Simulation
 
 Always simulate transactions before executing:
@@ -158,6 +189,7 @@ Before any write operation, verify:
 
 - [ ] Private key loaded from environment, not hard-coded
 - [ ] Sufficient PLS balance for gas
+- [ ] Correct slippage set (6% pTGC, 7% UFO)
 - [ ] Transaction simulated successfully
 - [ ] User has explicitly confirmed the action
 - [ ] Contract address matches verified addresses in `rpc-config.md`
@@ -184,6 +216,10 @@ Always cross-reference against these verified addresses:
 
 - pTGC: `0x94534EeEe131840b1c0F61847c572228bdfDDE93`
 - UFO: `0x456548A9B56eFBbD89Ca0309edd17a9E20b04018`
+- Dead Address: `0x0000000000000000000000000000000000000369`
+- PulseX Router: `0x98bf93ebf5c380C0e6Ae8e192A7e2AE08edAcc02`
+
+Verify all contracts at: https://scan.pulsechain.com
 - Dead Address: `0x0000000000000000000000000000000000000369`
 - PulseX Router: `0x98bf93ebf5c380C0e6Ae8e192A7e2AE08edAcc02`
 
