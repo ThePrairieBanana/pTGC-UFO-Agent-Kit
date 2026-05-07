@@ -136,6 +136,8 @@ Always verify live stats using:
 - Dex: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
 - DexScreener: https://dexscreener.com/pulsechain/0xbea0e55b82eb975280041f3b49c4d0bd937b72d5
 - Block Exporer: https://plsfolio.com/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018/
+- PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
+- Note: If buying via PulseX directly (not goptgc.com), set slippage to 6% minimum. Reset to your previous setting after transacting.
 
 ---
 > **Disclaimer:** UFO is a high-risk, volatile cryptocurrency on PulseChain.
