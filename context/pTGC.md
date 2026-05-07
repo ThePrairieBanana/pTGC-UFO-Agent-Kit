@@ -389,6 +389,7 @@ than infinite printing. Imagine the $485,834 pTGC/WPLS LP when PLS 10 or 100X.
 - Metrics: https://lookintoptgc.com
 - Community: https://secretobank.com
 - PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
+- Note: If buying via PulseX directly (not goptgc.com), set slippage to 6% minimum. Reset to your previous setting after transacting.
 - DexScreener: https://dexscreener.com/pulsechain/0xf5a89a6487d62df5308cdda89c566c5b5ef94c11
 - PLSFolio: https://plsfolio.com/token/0x94534eeee131840b1c0f61847c572228bdfdde93/
 
