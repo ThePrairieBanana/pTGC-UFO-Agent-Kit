@@ -71,7 +71,7 @@ Based on $34,607,329 in transaction volume from May 2025 — May 2026.
 > [!NOTE]
 > These figures are based on trailing 12-month transaction volume from
 > May 2025 — May 2026. One of the lowest volume periods PulseChain has
-> ever see. Use the multiplier buttons (2x, 10x, 100x) on
+> ever seen. Use the multiplier buttons (2x, 10x, 100x) on
 > ptgc-ufo.com to see projected fee revenue at higher volume scenarios.
 
 ## LP Availability
@@ -314,7 +314,7 @@ https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana. Connect your wallet,
 - When price goes up, holders earn value in fewer tokens
 - When price goes down, holders earn value in more tokens
 - IPFS built into goptgc.com — users can run dApp locally
-- pTGC will live forever on PulseChain
+- Designed to live forever on PulseChain
 - Smart contract fully audited by SolidProof
 - Operating flawlessly since Oct 11th 2023
 - See token distribution on goptgc.com and ptgc-ufo.com
@@ -360,14 +360,14 @@ locking are optional but rewarding. Complexity is optional.
 The vast majority of LP is permanently burned and unruggable. No founder
 wallet. No pre-allocations. Contract is immutable and renounced.
 
-**There's a whitelist function in the contract**
+**"There's a whitelist function in the contract"**
 That was for maximizing LP during deployment and was renounced with the code
 
-**There are too many whales**
+**"There are too many whales"**
 Out of the top 50 wallets one is the dead address, one is the treasury, seven are
 LPs owned by the community. The tokens are becoming increasingly redistributed.
 
-**It's not sustainable**
+**"It's not sustainable"**
 The mechanics are deliberately built around volume-driven sustainability rather 
 than infinite printing. Imagine the $485,834 pTGC/WPLS LP when PLS 10 or 100X.
 
