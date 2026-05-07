@@ -116,17 +116,6 @@ This means UFO LP providers earn from two sources simultaneously:
 - UFO's 3% LP provider reward (paid in PLS, distributed via UFO shares)
 - PulseX V2 standard swap fees (vary by pair)
 
-> [!WARNING]
-> LP must be added through the official dApp at https://goptgc.com
-> to be eligible for the 3% LP provider rewards. Adding liquidity
-> through any other platform (PulseX, etc.) will NOT register your
-> UFO shares and you will NOT receive LP provider rewards.
-
-> [!IMPORTANT]
-> Always factor fees into LP position calculations. Use the calculators
-> at ptgc-ufo.com to model expected returns after fees before adding
-> liquidity to any pair.
-
 ## Richard Heart Core Assets
 UFO currently holds $1,567,581 in LP with the following
 PulseChain native assets:
