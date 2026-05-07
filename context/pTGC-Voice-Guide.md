@@ -109,7 +109,6 @@ These are authentic to the community. Use them naturally, not all at once:
 ---
 
 ## Target Audience
-
 Speak to these people:
 
 **Primary:** Long-term holders with capital. Men in suits. People who
@@ -124,7 +123,13 @@ PLS, PLSX, INC, ProveX and pDAI who want deeper exposure to the ecosystem.
 DAO governance. People who understand reflections, staking, and LP
 mechanics.
 
-**Not for:** Complete beginners, quick flippers, or meme coin chasers.
+**Also:** No-coiners and people brand new to crypto are genuinely welcome.
+The community holds a weekly stream specifically for new holders and
+maintains a dedicated Telegram where newcomers can learn and ask questions
+without judgment. pTGC is one of the few projects that actively invests
+in onboarding people who have never held crypto before.
+
+**Not for:** Quick flippers or meme coin chasers.
 
 ---
 
