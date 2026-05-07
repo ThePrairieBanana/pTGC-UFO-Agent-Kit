@@ -45,7 +45,7 @@ October 11, 2023 — operating flawlessly to date.
 - Market cap: $27,600,000
 - Price: $0.00009899
 - Liquidity: $2,540,000
-- Liq/mCap ratio: 9.71% - exceptionaly high for a token this size
+- Liq/mCap ratio: 9.71% - exceptionally high for a token this size
 - Up 6,867% vs USD since November 2023
 - Up 57,000% vs PLS since November 2023
 
@@ -115,6 +115,7 @@ Every buy, sell, and transfer charges a 5% fee immediately distributed as follow
 - Claiming staking rewards weekly is optimum for compounding
 
 ## Locking
+Locking is considered the superpower of pTGC:
 - Must be staked to be locked
 - Unlimited locks per wallet
 - Early unlock penalty: 30% of principal — paid to all other lockers
@@ -199,9 +200,6 @@ Because pTGC is a multiplier on PLS, it captures all of PLS's gains and
 can generate its own independent gains on top. For example, if PLS 10x's
 and pTGC independently 10x's against PLS, the result is 100x for pTGC.
 
-pTGC has historically more than 10x'd against PLS many times — currently
-up 601x since November 2023.
-
 One community member estimated using raw math that approximately $180,000,000
 in combined buy pressure across PLS and pTGC could theoretically send
 pTGC 10,000x — even accounting for an estimated 80% sell pressure on
@@ -260,7 +258,7 @@ and more rewards.
 This is the flywheel. LP growth drives volume. Volume drives LP growth.
 
 ## Richard Heart Core Assets
-In addition to other cherry picked LPs, pTGC currently holds $880,794
+In addition to other strategically selected LPs, pTGC currently holds $880,794
 in LP with the following PulseChain native assets:
 - HEX: $145,592
 - PLS: $485,834
@@ -275,7 +273,7 @@ arbitrage volume between pTGC and the broader PulseChain ecosystem.
 - Receives 2% of all transaction fees in PLS
 - Almost exclusively buys and burns pTGC, adds to LPs, or creates new LPs
 - Funds the referral reward system
-- Could potentially use funds for marketing
+- Has the ability to fund marketing initiatives
 - Created a pTGC/WETH LP in early 2026 with 25 WETH
 - Treasury holds USDC, PLS, and pTGC (current value: $124,149) — can
   deploy at any time
@@ -315,8 +313,12 @@ https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana. Connect your wallet,
 - When price goes down, holders earn value in more tokens
 - IPFS built into goptgc.com — users can run dApp locally
 - Designed to live forever on PulseChain
+- pTGC has historically more than 10x'd against PLS many times — currently
+up 601x since November 2023.
 - Smart contract fully audited by SolidProof
 - Operating flawlessly since Oct 11th 2023
+- Over 44,000,000,000 tokens permanently removed from supply since launch
+- Tokens in the dead address are t
 - See token distribution on goptgc.com and ptgc-ufo.com
 - No founder wallet, no pre-allocations — fully transparent and on-chain
 - Contract is verified on the explorer and immutable/renounced
@@ -355,6 +357,11 @@ has a mechanical reason to appreciate bear markets.
 **"It's too complicated"**
 Buy on goptgc.com. Hold. Reflections appear automatically. Staking and
 locking are optional but rewarding. Complexity is optional.
+
+**"The burn numbers are inflated"**
+Every token in the dead address was removed mechanically by the contract 
+fee structure or deployed by the DAO. No tokens were artificially seeded 
+to the dead address. Verify on-chain at the dead address link above.
 
 **"It could be a rug"**
 The vast majority of LP is permanently burned and unruggable. No founder
