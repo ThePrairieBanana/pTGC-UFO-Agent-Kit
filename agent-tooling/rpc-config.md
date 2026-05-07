@@ -29,6 +29,9 @@ For real-time event subscriptions and monitoring:
 - Dead Address: 0x0000000000000000000000000000000000000369
 - PulseX Router: 0x98bf93ebf5c380C0e6Ae8e192A7e2AE08edAcc02
 
+- Note: pTGC requires 6% slippage, UFO requires 7% slippage.
+Slippage is auto-configured on goptgc.com.
+
 ## Quick Connect — JavaScript (ethers.js)
 ```javascript
 import { ethers } from "ethers";
