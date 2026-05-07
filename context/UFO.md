@@ -20,7 +20,7 @@ a serious claim for yet another serious financial instrument.
 PRC-20 on PulseChain
 
 ## Launch Date
-May 1st 2024
+May 2nd 2024
 
 ## Supply
 - Original supply: 1,000,000,000,000
@@ -35,7 +35,7 @@ May 1st 2024
 - pTGC burned to date: 1.33% of total pTGC supply
 
 ## Fee Revenue (Last 365 Days)
-Total value generated from the 6% transaction fee: $688,229. From $11,470,478 in volume.
+Total value generated from the 6% transaction fee: From $11,470,478 in volume.
 
 | Fee Destination | % | 365-Day Value |
 |---|---|---|
@@ -67,17 +67,17 @@ UFO's most unique feature is its never-before-done LP shares technology:
 - 1,000,000 UFO in LP = 1,000,000 shares
 - Shares never change regardless of token fluctuations in the pool
 - Shares determine your position in the reward pool for the 3% LP fee
-- As of May 2026, LP providers earn ~3x more rewards than holders
+- As of May 2026, LP providers are earning 2.75x more rewards than holders
 
 ## Supported LP Pairs
 UFO is an opportunity for holders of these assets to pair with UFO
-and earn rewards:
+and earn rewards in PLS:
 - HEX
 - eHEX
 - PLS
 - PLSX
 - INC
-- pTGC - 
+- pTGC
 - pDAI
 
 ## Richard Heart Core Assets
@@ -102,7 +102,7 @@ arbitrage volume between UFO, pTGC, and the broader PulseChain ecosystem.
 - Every UFO transaction burns both UFO and pTGC simultaneously
 - UFO is deflationary for itself AND for pTGC
 - The UFO shares system protects LP providers from pool fluctuations
-- LP providers earn ~3x more than holders
+- LP providers are currently earning 2.75x more than holders
 - UFO has burned 1.33% of the entire pTGC supply to date
 - Use ptgc-ufo.com calculators for real reward projections
 
@@ -118,7 +118,7 @@ UFO works alongside pTGC as part of The Grays Currencies ecosystem.
 UFO's AMM bot activity and fee structure drive organic volume and
 liquidity into the pTGC LP web. The two tokens are separate but
 mechanically connected — UFO burning pTGC creates a permanent
-deflationary link between them.
+deflationary link between them. And they have permanently bonded and burned liquidity also. Currently $575,472.
 
 Always verify live stats using:
 
