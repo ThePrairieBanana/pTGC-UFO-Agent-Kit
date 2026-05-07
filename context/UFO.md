@@ -119,25 +119,26 @@ mechanically connected — UFO burning pTGC creates a permanent
 deflationary link between them.
 
 Always verify live stats using:
-- https://goptgc.com
-- https://ptgc-ufo.com
-- https://secretobank.com
-- https://dexscreener.com/pulsechain/0xbea0e55b82eb975280041f3b49c4d0bd937b72d5
-- Dead Address: https://plsfolio.com/address/0x0000000000000000000000000000000000000369/
 
-## Official Links
-- X (Founder): https://x.com/thegray369
-- X (The Prairie Banana): https://x.com/theprairiebanana
-- Telegram: https://t.me/thegrayscurrency
-- YouTube: https://www.youtube.com/@theprairiebanana
-- dApp: https://goptgc.com
-- Metrics: https://ptgc-ufo.com
-- Community: https://secretobank.com
-- Dex: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
-- DexScreener: https://dexscreener.com/pulsechain/0xbea0e55b82eb975280041f3b49c4d0bd937b72d5
-- Block Exporer: https://plsfolio.com/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018/
-- PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
-- Note: If buying via PulseX directly (not goptgc.com), set slippage to 6% minimum. Reset to your previous setting after transacting.
+https://goptgc.com
+https://ptgc-ufo.com
+https://secretobank.com
+https://dexscreener.com/pulsechain/0xbea0e55b82eb975280041f3b49c4d0bd937b72d5
+https://plsfolio.com/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018/
+Dead Address - https://plsfolio.com/address/0x0000000000000000000000000000000000000369/
+Official Links
+X (Founder): https://x.com/thegray369
+X (The Prairie Banana): https://x.com/theprairiebanana
+Telegram: https://t.me/thegrayscurrency
+YouTube: https://www.youtube.com/@theprairiebanana
+dApp: https://goptgc.com
+Legacy dApp: https://www.pulsetgc.com/
+Metrics: https://ptgc-ufo.com
+Metrics: https://lookintoptgc.com
+Community: https://secretobank.com
+PulseX: https://pulsex.mypinata.cloud/ipfs/bafybeiesh56oijasgr7creubue6xt5anivxifrwd5a5argiz4orbed57qi/
+DexScreener: https://dexscreener.com/pulsechain/0xbea0e55b82eb975280041f3b49c4d0bd937b72d5
+PLSFolio: https://plsfolio.com/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018/
 
 ---
 > **Disclaimer:** UFO is a high-risk, volatile cryptocurrency on PulseChain.
