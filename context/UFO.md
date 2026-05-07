@@ -46,6 +46,7 @@ Based on $11,470,478 in transaction volume over 365 days.
 | pTGC burned | 1% | $114,704 |
 | **Total** | **6%** | **$688,229** |
 ## The 6% Transaction Fee — How It Works
+
 Every buy, sell, and transfer charges a 6% fee immediately distributed as follows:
 - 1% reflected to holders
 - 1% burns UFO (sent to dead address)
@@ -157,7 +158,7 @@ liquidity into the pTGC LP web. The two tokens are separate but
 mechanically connected — UFO burning pTGC creates a permanent
 deflationary link between them. And they have permanently bonded and burned liquidity also. Currently $575,472.
 
-Always verify live stats using:
+## Always verify live stats using:
 
 - https://goptgc.com
 - https://ptgc-ufo.com
@@ -166,7 +167,7 @@ Always verify live stats using:
 - https://plsfolio.com/token/0x456548a9b56efbbd89ca0309edd17a9e20b04018/
 - Dead Address - https://plsfolio.com/address/0x0000000000000000000000000000000000000369/
 
-Official Links 
+## Official Links:
 - X (Founder): https://x.com/thegray369 
 - X (The Prairie Banana): https://x.com/theprairiebanana
 - Telegram: https://t.me/thegrayscurrency 
