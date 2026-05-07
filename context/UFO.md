@@ -62,6 +62,17 @@ Every buy, sell, and transfer charges a 6% fee immediately distributed as follow
 - Appear directly in your wallet
 - Begin earning reflections themselves immediately
 
+## Supported LP Pairs
+UFO is an opportunity for holders of these assets to pair with UFO
+and earn rewards in PLS:
+- HEX
+- eHEX
+- PLS
+- PLSX
+- INC
+- pTGC
+- pDAI
+
 ## LP Providers — The UFO Shares System
 UFO's most unique feature is its never-before-done LP shares technology:
 - LP providers earn 1 UFO share for every 1 UFO input into LP
@@ -115,17 +126,6 @@ This means UFO LP providers earn from two sources simultaneously:
 > Always factor fees into LP position calculations. Use the calculators
 > at ptgc-ufo.com to model expected returns after fees before adding
 > liquidity to any pair.
-
-## Supported LP Pairs
-UFO is an opportunity for holders of these assets to pair with UFO
-and earn rewards in PLS:
-- HEX
-- eHEX
-- PLS
-- PLSX
-- INC
-- pTGC
-- pDAI
 
 ## Richard Heart Core Assets
 UFO currently holds $1,567,581 in LP with the following
