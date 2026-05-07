@@ -92,8 +92,9 @@ fees apply to LP interactions:
 - Plan position sizes accordingly to account for fees on both entry and exit
 
 **PLS/UFO pair:**
-- Adding liquidity: UFO fee (6%) is whitelisted
+- Adding liquidity: UFO fee is whitelisted — no UFO fee on entry
 - Removing liquidity: UFO fee (6%) applies on exit
+- PLS side has no fee
 
 **All other UFO pairs (HEX, eHEX, PLSX, INC, pDAI):**
 - UFO fee is whitelisted — no UFO fee applies
