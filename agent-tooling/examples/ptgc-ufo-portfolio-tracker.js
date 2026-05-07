@@ -1,4 +1,3 @@
-
 /**
  * pTGC & UFO Portfolio Tracker
  * Complete ecosystem position overview for any wallet
@@ -57,13 +56,23 @@ function formatTokens(raw, decimals = 18) {
   return parseFloat(ethers.formatUnits(raw, decimals)).toLocaleString();
 }
 
-// Determine holder tier
-function getHolderTier(balance) {
+// Determine pTGC holder tier
+function getPTGCHolderTier(balance) {
   const tokens = Number(ethers.formatUnits(balance, 18));
-  if (tokens >= 1_000_000_000) return "🐋 Whale";
+  if (tokens >= 2_900_000_000) return "🐋 Whale";
   if (tokens >= 290_000_000)   return "🦈 Shark";
   if (tokens >= 29_000_000)    return "🐬 Dolphin";
-  if (tokens >= 1_000_000)     return "🦑 Squid";
+  if (tokens >= 2_900_000)     return "🦑 Squid";
+  return "🐟 Fish";
+}
+
+// Determine UFO holder tier
+function getUFOHolderTier(balance) {
+  const tokens = Number(ethers.formatUnits(balance, 18));
+  if (tokens >= 9_100_000_000) return "🐋 Whale";
+  if (tokens >= 910_000_000)   return "🦈 Shark";
+  if (tokens >= 91_000_000)    return "🐬 Dolphin";
+  if (tokens >= 9_100_000)     return "🦑 Squid";
   return "🐟 Fish";
 }
 
@@ -101,19 +110,19 @@ async function trackPortfolio(walletAddress) {
 
   const ptgcPoolShare = (Number(ptgcBalance) / Number(ptgcSupply) * 100).toFixed(6);
   const ufoPoolShare  = (Number(ufoBalance)  / Number(ufoSupply)  * 100).toFixed(6);
-  const tier = getHolderTier(ptgcBalance);
   const isLocked = Number(ptgcLocked) > 0;
 
   console.log("\n🟣 pTGC Position");
-  console.log(`  Balance:      ${formatTokens(ptgcBalance)} pTGC`);
-  console.log(`  Tier:         ${tier}`);
-  console.log(`  Pool Share:   ${ptgcPoolShare}%`);
-  console.log(`  Locked:       ${isLocked ? formatTokens(ptgcLocked) + " pTGC 🔒" : "None"}`);
-  console.log(`  Is Holder:    ${ptgcIsHolder ? "✅ Yes" : "❌ No"}`);
+  console.log(`  Balance:       ${formatTokens(ptgcBalance)} pTGC`);
+  console.log(`  Tier:          ${getPTGCHolderTier(ptgcBalance)}`);
+  console.log(`  Pool Share:    ${ptgcPoolShare}%`);
+  console.log(`  Locked:        ${isLocked ? formatTokens(ptgcLocked) + " pTGC 🔒" : "None"}`);
+  console.log(`  Is Holder:     ${ptgcIsHolder ? "✅ Yes" : "❌ No"}`);
   console.log(`  Total Holders: ${ptgcHolders.toString()}`);
 
   console.log("\n🛸 UFO Position");
   console.log(`  Balance:      ${formatTokens(ufoBalance)} UFO`);
+  console.log(`  Tier:         ${getUFOHolderTier(ufoBalance)}`);
   console.log(`  Pool Share:   ${ufoPoolShare}%`);
   console.log(`  Reflections:  ${ufoExcluded ? "❌ Excluded" : "✅ Earning"}`);
 
