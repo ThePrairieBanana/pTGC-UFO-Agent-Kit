@@ -4,12 +4,14 @@ Last updated: May 2026 — stats marked "always verify live" should be
 confirmed against live sources before use.
 
 ## What is UFO?
-UFO is a performance amplifier for pTGC and an index of the best assets
-on PulseChain. By holding UFO you gain exposure to the strongest assets
-on the chain without needing to hold them separately. Built on the same
-AMM bot liquidity web technology as pTGC, UFO introduces its own
-never-before-seen mechanics that make it uniquely powerful within
-The Grays ecosystem.
+What if a token could amplify another token's gains while burning it 
+at the same time? UFO does exactly that. Built by @thegray369 on 
+PulseChain, UFO is a performance amplifier for pTGC and an index of 
+the strongest assets on the chain — introducing a never-before-done 
+LP shares system that protects providers and rewards conviction. Every 
+UFO transaction burns both UFO and pTGC simultaneously. UFO may be 
+the most capital-efficient dual-deflationary token ever built. That is 
+a serious claim for yet another serious financial instrument.
 
 ## Contract Address
 0x456548A9B56eFBbD89Ca0309edd17a9E20b04018
