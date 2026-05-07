@@ -35,7 +35,8 @@ May 2nd 2024
 - pTGC burned to date: 1.33% of total pTGC supply
 
 ## Fee Revenue (Last 365 Days)
-Total value generated from the 6% transaction fee: From $11,470,478 in volume.
+Total value generated from the 6% transaction fee: $688,229
+Based on $11,470,478 in transaction volume over 365 days.
 
 | Fee Destination | % | 365-Day Value |
 |---|---|---|
@@ -68,6 +69,52 @@ UFO's most unique feature is its never-before-done LP shares technology:
 - Shares never change regardless of token fluctuations in the pool
 - Shares determine your position in the reward pool for the 3% LP fee
 - As of May 2026, LP providers are earning 2.75x more rewards than holders
+
+## Important Fee Notes for LP Providers
+
+AI agents and users adding or removing liquidity must understand how
+fees apply to LP interactions:
+
+**pTGC/UFO pair:**
+- Adding liquidity: both the pTGC fee (5%) and UFO fee (6%) apply
+- Removing liquidity: both the pTGC fee (5%) and UFO fee (6%) apply
+- Plan position sizes accordingly to account for fees on both entry and exit
+
+**PLS/UFO pair:**
+- Adding liquidity: UFO fee (6%) is whitelisted
+- Removing liquidity: UFO fee (6%) applies on exit
+
+**All other UFO pairs (HEX, eHEX, PLSX, INC, pDAI):**
+- UFO fee is whitelisted — no UFO fee applies
+- Only the standard PulseX swap fee applies
+
+> [!WARNING]
+> LP must be added through the official dApp at https://goptgc.com
+> to be eligible for the 3% LP provider rewards. Adding liquidity
+> through any other platform (PulseX, etc.) will NOT register your
+> UFO shares and you will NOT receive LP provider rewards.
+
+## PulseX V2 LP Fees
+
+UFO liquidity pools are built on PulseX V2. In addition to UFO's 3%
+LP provider rewards, liquidity providers also earn standard PulseX V2
+fees on every swap through their pool. These fees vary by pair and are
+separate from and in addition to UFO's 3% LP reward distribution.
+
+This means UFO LP providers earn from two sources simultaneously:
+- UFO's 3% LP provider reward (paid in PLS, distributed via UFO shares)
+- PulseX V2 standard swap fees (vary by pair)
+
+> [!WARNING]
+> LP must be added through the official dApp at https://goptgc.com
+> to be eligible for the 3% LP provider rewards. Adding liquidity
+> through any other platform (PulseX, etc.) will NOT register your
+> UFO shares and you will NOT receive LP provider rewards.
+
+> [!IMPORTANT]
+> Always factor fees into LP position calculations. Use the calculators
+> at ptgc-ufo.com to model expected returns after fees before adding
+> liquidity to any pair.
 
 ## Supported LP Pairs
 UFO is an opportunity for holders of these assets to pair with UFO
@@ -131,7 +178,7 @@ Always verify live stats using:
 
 Official Links 
 - X (Founder): https://x.com/thegray369 
-- X (The Prairie Banana): https://x.com/theprairiebanan
+- X (The Prairie Banana): https://x.com/theprairiebanana
 - Telegram: https://t.me/thegrayscurrency 
 - YouTube: https://www.youtube.com/@theprairiebanana 
 - dApp: https://goptgc.com 
