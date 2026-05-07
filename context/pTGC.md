@@ -70,7 +70,8 @@ Based on $34,607,329 in transaction volume from May 2025 — May 2026.
 
 > [!NOTE]
 > These figures are based on trailing 12-month transaction volume from
-> May 2025 — May 2026. Use the multiplier buttons (2x, 10x, 100x) on
+> May 2025 — May 2026. One of the lowest volume periods PulseChain has
+> ever see. Use the multiplier buttons (2x, 10x, 100x) on
 > ptgc-ufo.com to see projected fee revenue at higher volume scenarios.
 
 ## LP Availability
@@ -105,9 +106,9 @@ Every buy, sell, and transfer charges a 5% fee immediately distributed as follow
 - Earns ~165% more APY vs holding
 - One stake per wallet
 - Stake any amount
+- Unstake any amount
 - No time commitment
 - Unstaking costs 1% of principal which is immediately sent to all other stakers
-- Unstake any amount
 - Claimable tokens remain in the contract until claimed, then sent to wallet
   and earn reflections, and can then be added to the stake and also locked
 - Users maintain custody of staked tokens
@@ -118,7 +119,7 @@ Locking is considered the superpower of pTGC:
 - Must be staked to be locked
 - Unlimited locks per wallet
 - Early unlock penalty: 30% of principal — paid to all other lockers
-- Early unlock rewards increase in value as price rises. This function is termed the Super Power.
+- Early unlock rewards increase in value as price rises. 
 - Reward retention by lock duration:
   - 90 days (Minimum): 55% of rewards kept
   - 1 year: 60% kept
@@ -252,7 +253,7 @@ LP pairs. And because pTGC is a multiplier on PLS, when PLS appreciates the
 dollar value of all pTGC/WPLS LP appreciates with it.
 
 For example, if PLS 10x's, the dollar value of the pTGC/WPLS LP 10x's
-automatically. If pTGC simultaneously 10x's against PLS, that LP has
+also. If pTGC simultaneously 10x's against PLS, that LP has
 effectively 100x'd in dollar terms. The AMM bots respond to deeper LP
 with exponentially more volume — which generates more LP, more burns,
 and more rewards.
@@ -260,7 +261,7 @@ and more rewards.
 This is the flywheel. LP growth drives volume. Volume drives LP growth.
 
 ## Richard Heart Core Assets
-In addition to other cherry picked LPs, pTGC currently holds $897,000
+In addition to other cherry picked LPs, pTGC currently holds $880,794
 in LP with the following PulseChain native assets:
 - HEX: $145,592
 - PLS: $485,834
@@ -274,6 +275,8 @@ arbitrage volume between pTGC and the broader PulseChain ecosystem.
 ## The DAO
 - Receives 2% of all transaction fees in PLS
 - Almost exclusively buys and burns pTGC, adds to LPs, or creates new LPs
+- Funds the referral reward system
+- Could potentially use funds for marketing
 - Created a pTGC/WETH LP in early 2026 with 25 WETH
 - Treasury holds USDC, PLS, and pTGC (current value: $124,149) — can
   deploy at any time
@@ -300,7 +303,7 @@ for pTGC. You can swap from USDC on Base, Ethereum, BSC, Arbitrum,
 Solana, Polygon, Optimism, Unichain and LNK directly to PLS using https://libertyswap.finance/.
 
 3. Buy pTGC — Go directly here:
-https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana. Connect your wallet, swap your PLS for pTGC (save ~$10 of PLS for gas). If you prefer no referral link: https://goptgc.com/#/ptgc-onboarding.
+https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana. Connect your wallet, swap your PLS for pTGC (save ~$10 of PLS for transacting later). If you prefer no referral link: https://goptgc.com/#/ptgc-onboarding.
 
 4. Stake & Lock — Once you have pTGC, head to: https://goptgc.com/staking. Connect your wallet, choose how much you want to stake and confirm. If you want to lock, choose how much and for how long.
 
@@ -312,7 +315,7 @@ https://goptgc.com/#/ptgc-onboarding?referid=PrairieBanana. Connect your wallet,
 - When price goes up, holders earn value in fewer tokens
 - When price goes down, holders earn value in more tokens
 - IPFS built into goptgc.com — users can run dApp locally
-- Designed to live forever on PulseChain
+- pTGC will live forever on PulseChain
 - Smart contract fully audited by SolidProof
 - Operating flawlessly since Oct 11th 2023
 - See token distribution on goptgc.com and ptgc-ufo.com
