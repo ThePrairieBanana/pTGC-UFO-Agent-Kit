@@ -318,7 +318,7 @@ up 601x since November 2023.
 - Smart contract fully audited by SolidProof
 - Operating flawlessly since Oct 11th 2023
 - Over 44,000,000,000 tokens permanently removed from supply since launch
-- Tokens in the dead address are t
+- Tokens in the dead address don't receive reflections
 - See token distribution on goptgc.com and ptgc-ufo.com
 - No founder wallet, no pre-allocations — fully transparent and on-chain
 - Contract is verified on the explorer and immutable/renounced
